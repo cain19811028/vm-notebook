@@ -1,4 +1,4 @@
-# VirtualBox 操作記錄
+# VM 操作記錄
 
 * 2017-12-28 - Windows 10 + Hyper-V 10.0.15063.0 + Debian 9.3.0
 * 2017-12-06 - Windows 10 + VirtualBox 5.2.2 + Debian 9.2.1
